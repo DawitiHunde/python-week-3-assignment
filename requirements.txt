@@ -1,0 +1,6 @@
+Enter the original price of the item: $100
+Enter the discount percentage: 25
+
+Original Price: $100.00
+Discount Applied: 25%
+Final Price after discount: $75.00
